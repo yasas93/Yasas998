@@ -1,0 +1,32 @@
+
+
+username: adm_Yasas.Pathirana
+
+okta portal login address adm_Yasas.Pathirana@debitsuccess.com
+
+password: welcometomyworld
+
+You will need to use the same instructions for okta verification to set up 2 factor authentication for this account as well
+
+
+Debitsuccess account.
+
+Username: Yasas.P  (laptop log-in, citrix login)
+
+Yasas.P@debitsuccess.com
+
+above email address is only used to connect to vpn and the okta portal. Please follow instructions attached to setup okta verification
+
+
+temp password: welcometomyplanet  (instructions attached show you how to change this. This password will be for laptop login, okta portal login as well as vpn and citrix)
+
+
+Login email address :  yasas.pathirana@xplortechnologies.com
+
+Microsoft account password : Dinuji998@  (Jira ,Bob and workplace login password as well)
+
+
+Pin no : 002123
+
+Yasas998 - Postman user name
+Dinuji998@ - password
