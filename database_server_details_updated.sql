@@ -8,6 +8,7 @@ DSOCSQLREAD05, DSOCSQLPROD04, DSOCSQLCERT04 , dsocsqlsbox01
 
 details on new branch
 
+details on new branch_2
 
 
 
